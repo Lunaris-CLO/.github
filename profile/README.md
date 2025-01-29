@@ -33,5 +33,3 @@ A huge thanks to the developers of all the ROMs from which Lunaris OS cherry-pic
 
 ---
 
-Lunaris OS - **A Fusion of the Best Custom ROMs**
-
