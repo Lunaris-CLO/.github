@@ -23,6 +23,8 @@ Lunaris OS brings a balanced mix of performance, smoothness, and customization w
 
 ## Why is the Source Private?
 
+This is my personal project for learning more about Android and custom ROM development.
+
 Lunaris OS may contain a few commits with improper authorization. To avoid unnecessary drama, the source has not been made public at this time. Apologies for any inconvenience. This is because I'm just lazy to check and fix those commits, but I respect all developers for their contributions.
 
 ## Credits
