@@ -33,3 +33,4 @@ A huge thanks to the developers of all the ROMs from which Lunaris OS cherry-pic
 
 ---
 
+If anyone interested to build, then msg me in tg
